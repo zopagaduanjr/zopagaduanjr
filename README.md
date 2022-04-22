@@ -20,16 +20,10 @@ I'm an aspiring developer located in Davao City.
 
 ### 📦 Sample Works
 
-- 🍫 [Cacao Disease Identification App][sikwati]
-- 👨‍🏫 [Class Attendance App][beadle]
-- 🚦 [Traffic Counter System][traffic]
-- 💾 [SSD Life Calculator][ssd]
+- 🚍 [Commute Davao][commute]
 
 [kaggle]: https://www.kaggle.com/zaldyjr
 [medium]: https://zopagaduanjr.medium.com/
 [linkedin]: https://www.linkedin.com/in/zopagaduanjr/
 [steam]: https://steamcommunity.com/id/coessence/
-[sikwati]: https://play.google.com/store/apps/details?id=sikwati.sikwati
-[beadle]: https://github.com/zopagaduanjr/Beadle
-[traffic]: https://github.com/zopagaduanjr/Traffic-Counter
-[ssd]: https://ssd-endurance.ga/
+[commute]: https://play.google.com/store/apps/details?id=zalboi.commute_davao&gl=US
