@@ -14,8 +14,6 @@ I'm an aspiring developer located in Davao City.
 - LinkedIn: [linkedin.com/in/zopagaduanjr][linkedin]
 - Steam: [steamcommunity.com/id/coessence][steam]
 
-![Zaldy's github stats](https://github-readme-stats.vercel.app/api?username=zopagaduanjr&show_icons=true&hide_border=true)
-
 ---
 
 ### 📦 Sample Works
