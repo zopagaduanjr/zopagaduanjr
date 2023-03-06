@@ -18,12 +18,14 @@ I'm an aspiring developer located in Davao City.
 
 ### 📦 Sample Works
 
-- 🚍 [Commute Davao][commute]
+- 🚍 [Commute Davao Mobile][commute-mob]
 - ⌚ [When Is The Next Board Exam][witnbe]
+- 🚌 [Commute Davao Web][commute-web]
 
 [kaggle]: https://www.kaggle.com/zaldyjr
 [medium]: https://zopagaduanjr.medium.com/
 [linkedin]: https://www.linkedin.com/in/zopagaduanjr/
 [steam]: https://steamcommunity.com/id/coessence/
-[commute]: https://play.google.com/store/apps/details?id=zalboi.commute_davao&gl=US
+[commute-mob]: https://play.google.com/store/apps/details?id=zalboi.commute_davao&gl=US
+[commute-web]: https://commutedavao.com/
 [witnbe]: https://whenisthenextboardexam.com/
