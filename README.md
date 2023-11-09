@@ -1,10 +1,9 @@
 # Madayaw! 👋
 
-I'm an aspiring developer located in Davao City.
+I'm a software engineer living in Davao City.
 
-- 🌴 Unemployed (hire me pls, gmt+7 to gmt+10)
+- 🐦 Flutter Developer (open for consultation, gmt+7 - gmt+10)
 - ☁️ Cloud and ML Enthusiast
-- 👨‍💻 Mobile and Web Developer
 - 🍗 Interested in Wellness and Nutrition
 
 ### 📬 Get in Touch
