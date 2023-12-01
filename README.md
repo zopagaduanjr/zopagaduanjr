@@ -21,6 +21,7 @@ I'm a software engineer living in Davao City.
 - ⌚ [When Is The Next Board Exam][witnbe]
 - 🚌 [Commute Davao Web][commute-web]
 - 📻 [MYX Daily Top 10 Charts][myxarchive]
+- 🛒 [Shopee Purchase History][sh]
 
 [kaggle]: https://www.kaggle.com/zaldyjr
 [medium]: https://zopagaduanjr.medium.com/
@@ -30,3 +31,4 @@ I'm a software engineer living in Davao City.
 [commute-web]: https://commutedavao.com/
 [witnbe]: https://whenisthenextboardexam.com/
 [myxarchive]: http://myxarchive.com/
+[sh]: https://chromewebstore.google.com/detail/shopee-purchase-history/hjngblgllbemaipfmclpiepemddbdioh
