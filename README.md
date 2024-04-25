@@ -30,5 +30,5 @@ I'm a software engineer living in Davao City.
 [commute-mob]: https://play.google.com/store/apps/details?id=zalboi.commute_davao&gl=US
 [commute-web]: https://commutedavao.com/
 [witnbe]: https://whenisthenextboardexam.com/
-[myxarchive]: http://myxarchive.com/
+[myxarchive]: http://myxarchive.zaldyjr.com
 [sh]: https://chromewebstore.google.com/detail/shopee-purchase-history/hjngblgllbemaipfmclpiepemddbdioh
