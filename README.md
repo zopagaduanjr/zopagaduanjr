@@ -9,7 +9,7 @@ I'm a software engineer living in Davao City.
 ### 📬 Get in Touch
 
 - Kaggle: [kaggle.com/zaldyjr][kaggle]
-- Medium: [zopagaduanjr.medium.com][medium]
+- Medium: [medium.com/@zopagaduanjr][medium]
 - LinkedIn: [linkedin.com/in/zopagaduanjr][linkedin]
 - Steam: [steamcommunity.com/id/coessence][steam]
 
@@ -24,7 +24,7 @@ I'm a software engineer living in Davao City.
 - 🛒 [Shopee Purchase History][sh]
 
 [kaggle]: https://www.kaggle.com/zaldyjr
-[medium]: https://zopagaduanjr.medium.com/
+[medium]: https://medium.com/@zopagaduanjr
 [linkedin]: https://www.linkedin.com/in/zopagaduanjr/
 [steam]: https://steamcommunity.com/id/coessence/
 [commute-mob]: https://play.google.com/store/apps/details?id=zalboi.commute_davao&gl=US
